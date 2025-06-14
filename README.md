@@ -11,12 +11,12 @@ _Combining passion for programming with space engineering_ 🚀✨
 
 - [🌟 About](#-about)
 - [📸 Screenshots](#-screenshots)
+- [🔐 Source Code](#-source-code)
 - [🛠️ Tech Stack](#️-tech-stack)
 - [🚀 Features](#-features)
 - [📱 App Stores](#-app-stores)
 - [👥 Team](#-team)
 - [📊 Statistics](#-statistics)
-- [🔧 Setup](#-setup)
 - [🤝 Partners](#-partners)
 - [💝 Support](#-support)
 - [🔮 Roadmap](#-roadmap)
@@ -52,6 +52,25 @@ _Combining passion for programming with space engineering_ 🚀✨
   <img src="./assets/unnamed (5).webp" alt="Rakietomania App Screenshot 6" width="200" />
   <img src="./assets/unnamed (6).webp" alt="Rakietomania App Screenshot 7" width="200" />
 </div>
+
+---
+
+## 🔐 Source Code
+
+> **The application source code is not publicly available, but I'm open to providing access to recruiters interested in reviewing the implementation.**
+
+**Code Availability:**
+
+- 🔒 **Private Repository** - Code is not publicly shared
+- 👥 **Recruiter Access** - Happy to provide code access to interested recruiters
+- 📧 **Contact** - Reach out via email or LinkedIn
+
+**What I can share:**
+
+- 📱 **Full Application Code** - React Native + TypeScript
+- 🏗️ **Architecture** - Redux, GraphQL, Sanity CMS
+- 🎨 **UI Components** - Custom React Native components
+- 📊 **Feature Implementation** - All application modules
 
 ---
 
@@ -248,6 +267,8 @@ _Content Management • Data Curation_
 | **Accessibility**     | Built-in accessibility features |
 | **Performance**       | Optimized for all devices       |
 | **Error Handling**    | Comprehensive error recovery    |
+
+---
 
 ## 🤝 Partners
 
