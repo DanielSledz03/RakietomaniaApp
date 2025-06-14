@@ -19,27 +19,13 @@ _Combining passion for programming with space engineering_ 🚀✨
 - [📊 Statistics](#-statistics)
 - [🤝 Partners](#-partners)
 - [💝 Support](#-support)
-- [🔮 Roadmap](#-roadmap)
 - [📞 Contact](#-contact)
 
 ---
 
 ## 🌟 About
 
-**Rakietomania** is a cutting-edge mobile application that brings the wonders of space engineering to your fingertips. Built by a passionate team of space enthusiasts, this app serves as the digital hub for everything related to space missions, rockets, and astronautics.
-
-### 🎯 Mission
-
-> **To democratize space knowledge and inspire the next generation of space engineers through innovative technology and engaging content.**
-
-### 🌍 Impact
-
-- **Educational Platform** - Making space engineering accessible to everyone
-- **Real-time Data** - Live mission tracking and updates
-- **Community Hub** - Connecting space enthusiasts worldwide
-- **Innovation Showcase** - Demonstrating modern mobile development
-
----
+**Rakietomania** is a mobile application for space engineering enthusiasts. Built by a passionate team, this app serves as a digital hub for everything related to space missions, rockets, and astronautics.
 
 ## 📸 Screenshots
 
