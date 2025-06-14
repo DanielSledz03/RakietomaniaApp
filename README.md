@@ -51,6 +51,8 @@ _Combining passion for programming with space engineering_ 🚀✨
   <img src="./assets/unnamed (4).webp" alt="Rakietomania App Screenshot 5" width="200" />
   <img src="./assets/unnamed (5).webp" alt="Rakietomania App Screenshot 6" width="200" />
   <img src="./assets/unnamed (6).webp" alt="Rakietomania App Screenshot 7" width="200" />
+    <img src="./assets/unnamed (7).webp" alt="Rakietomania App Screenshot 8" width="200" />
+
 </div>
 
 ---
