@@ -1,4 +1,4 @@
-![Rakietomania](./src/assets/images/logo2.png)
+![Rakietomania](./assets/logo2.png)
 
 ### Advanced Mobile Application for Space Engineering Enthusiasts
 
@@ -7,11 +7,10 @@
 
 _Combining passion for programming with space engineering_ 🚀✨
 
----
-
 ## 📋 Table of Contents
 
 - [🌟 About](#-about)
+- [📸 Screenshots](#-screenshots)
 - [🛠️ Tech Stack](#️-tech-stack)
 - [🚀 Features](#-features)
 - [📱 App Stores](#-app-stores)
@@ -39,6 +38,20 @@ _Combining passion for programming with space engineering_ 🚀✨
 - **Real-time Data** - Live mission tracking and updates
 - **Community Hub** - Connecting space enthusiasts worldwide
 - **Innovation Showcase** - Demonstrating modern mobile development
+
+---
+
+## 📸 Screenshots
+
+<div align="center">
+  <img src="./assets/unnamed.webp" alt="Rakietomania App Screenshot 1" width="200" />
+  <img src="./assets/unnamed (1).webp" alt="Rakietomania App Screenshot 2" width="200" />
+  <img src="./assets/unnamed (2).webp" alt="Rakietomania App Screenshot 3" width="200" />
+  <img src="./assets/unnamed (3).webp" alt="Rakietomania App Screenshot 4" width="200" />
+  <img src="./assets/unnamed (4).webp" alt="Rakietomania App Screenshot 5" width="200" />
+  <img src="./assets/unnamed (5).webp" alt="Rakietomania App Screenshot 6" width="200" />
+  <img src="./assets/unnamed (6).webp" alt="Rakietomania App Screenshot 7" width="200" />
+</div>
 
 ---
 
@@ -146,7 +159,9 @@ Metro; // React Native bundler
 
 **Platform:** iOS (iPhone & iPad)  
 **Features:** Full iOS integration, Apple Pay support  
-**Rating:** ⭐⭐⭐⭐⭐
+**Rating:** ⭐⭐⭐⭐⭐ (5.0/5.0)  
+**Reviews:** 34 opinii  
+**Downloads:** Dostępna w App Store
 
 ### 🤖 **Google Play Store**
 
@@ -154,7 +169,9 @@ Metro; // React Native bundler
 
 **Platform:** Android (6.0+)  
 **Features:** Google Play Services integration  
-**Rating:** ⭐⭐⭐⭐⭐
+**Rating:** ⭐⭐⭐⭐⭐ (4.9/5.0)  
+**Reviews:** 417 opinii  
+**Downloads:** +5,000 pobrań
 
 ---
 
@@ -231,46 +248,6 @@ _Content Management • Data Curation_
 | **Accessibility**     | Built-in accessibility features |
 | **Performance**       | Optimized for all devices       |
 | **Error Handling**    | Comprehensive error recovery    |
-
----
-
-## 🔧 Setup
-
-### 📋 **Requirements**
-
-```bash
-Node.js >= 18
-React Native CLI
-Android Studio / Xcode
-Yarn package manager
-```
-
-### 🚀 **Installation**
-
-```bash
-# Clone repository
-git clone [repository-url]
-
-# Install dependencies
-yarn install
-
-# iOS setup
-cd ios && pod install && cd ..
-
-# Run application
-yarn ios     # for iOS
-yarn android # for Android
-```
-
-### ⚙️ **Environment Variables**
-
-```env
-API_URL=your_graphql_endpoint
-API_TOKEN=your_sanity_token
-ONE_SIGNAL_APP_ID=your_onesignal_id
-```
-
----
 
 ## 🤝 Partners
 
